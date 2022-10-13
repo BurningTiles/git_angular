@@ -1,1 +1,1 @@
-console.log("uat1");
+console.log("UAT1");
